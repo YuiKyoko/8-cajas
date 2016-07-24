@@ -1,0 +1,21 @@
+div{
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	background-color: #808080;
+	border: 1.5px solid black;
+}
+
+.padre{
+	width: 550px;
+	height: 180px;
+}
+
+.hijo{
+	display: inline-block;
+}
+
+.uno{
+	display: inline-block;
+}
+
